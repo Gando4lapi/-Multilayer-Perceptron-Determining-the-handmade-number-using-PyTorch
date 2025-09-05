@@ -36,8 +36,8 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/Gando4lapi/Determining-the-handmade-number-using-PyTorch
-cd Determining-the-handmade-number-using-PyTorch
+git clone https://github.com/Gando4lapi/-Multilayer-Perceptron-Determining-the-handmade-number-using-PyTorch
+cd -Multilayer-Perceptron-Determining-the-handmade-number-using-PyTorch
 ```
 
 2. **Установите зависимости:**
